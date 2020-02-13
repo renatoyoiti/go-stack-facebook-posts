@@ -1,0 +1,38 @@
+
+.post {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.post > p {
+  margin-top: 15px;
+  font-size: 1.4rem;
+}
+
+.author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.data {
+  margin-left: 10px;
+}
+
+.data h3 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.data p {
+  color: #9A9A9A;
+  font-size: 1.1rem;
+  margin-top: 3px;
+}
+
+.separation {
+  height: 1px;
+  background-color: #eeeeee;
+  border: 0px;
+}

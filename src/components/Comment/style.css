@@ -1,0 +1,19 @@
+.comments {
+  margin-top: 20px;
+}
+
+.comment-body {
+  display: flex;
+}
+
+.comment {
+  background-color: #eeeeee;
+  padding: 10px 15px;
+  margin-left: 10px;
+  border-radius: 20px;
+  font-size: 1.3rem;
+}
+
+.comment strong {
+  margin-right: 5px;
+}
